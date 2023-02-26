@@ -9,4 +9,5 @@ Main Part
 
 Bonus part
   - Make bonus
-  - ./push_swap 7 6 5 4 3 2 1 | ./checker 7 6 5 4 3 2 1```
+  - ./push_swap 7 6 5 4 3 2 1 | ./checker 7 6 5 4 3 2 1
+  ```
